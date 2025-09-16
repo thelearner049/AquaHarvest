@@ -13,6 +13,8 @@ import Dashboard from "./components/Dashboard.jsx";
 import Estimation from "./components/Estimation.jsx";
 import Features from "./components/Features.jsx";
 import Impact from "./components/Impact.jsx";
+import Gis from "./components/Gis.jsx";
+import SatelliteView from "./components/SatelliteView.jsx";
 
 const router = createBrowserRouter(
   createRoutesFromElements(
@@ -22,6 +24,8 @@ const router = createBrowserRouter(
       <Route path="estimation" element={<Estimation />} />
       <Route path="services" element={<Features />} />
       <Route path="impact" element={<Impact />} />
+      <Route path="gis" element={<Gis />} />
+      <Route path="satellite" element={<SatelliteView />} />
     </Route>
   )
 );
