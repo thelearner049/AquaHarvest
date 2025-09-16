@@ -5,7 +5,7 @@ import { TbBrandGoogleAnalytics } from "react-icons/tb";
 const Workflow = () => {
   return (
     <div className="bg-gray-50">
-      <div className=" mx-auto max-w-320 flex flex-col gap-20 pb-15 ">
+      <div className=" mx-auto max-w-320 flex flex-col gap-15 pb-15 ">
         {/* Title Section */}
         <div className="flex flex-col gap-5 items-center pt-15">
           <h1 className="text-5xl font-bold ">
@@ -19,7 +19,7 @@ const Workflow = () => {
         </div>
         <div className="flex flex-row">
           {/* Text Section */}
-          <div className="flex-1 gap-8 flex flex-col justify-center">
+          <div className="flex-1 gap-8 flex flex-col justify-start mt-8">
             <h2 className="text-2xl font-bold">How It Works</h2>
             <div className="flex gap-4">
               <div className="bg-[#003366] rounded-full p-3 text-white inline-flex items-center justify-center">

@@ -1,6 +1,7 @@
 import { LuDroplets } from "react-icons/lu";
 import { BiLeaf } from "react-icons/bi";
 import { BsGlobe } from "react-icons/bs";
+import {Link} from "react-router-dom";
 
 const HeroSection = () => {
   return (
@@ -19,12 +20,12 @@ const HeroSection = () => {
 
       {/* Buttons section */}
       <div className="flex flex-row gap-5 justify-center">
-        <button className="font-semibold text-xl text-white bg-[#003366] hover:bg-[#054687] px-6 py-1.5 rounded-md cursor-pointer">
+        <Link to="/estimation" className="font-semibold text-xl text-white bg-[#003366] hover:bg-[#054687] px-6 py-1.5 rounded-md cursor-pointer">
           Estimate Your Rooftop Potential
-        </button>
-        <button className="font-semibold text-xl px-6 py-1.5 rounded-md cursor-pointer border hover:bg-[#003366] hover:text-white duration-300">
+        </Link>
+        <Link to="/gis" className="font-semibold text-xl px-6 py-1.5 rounded-md cursor-pointer border hover:bg-[#003366] hover:text-white duration-300">
           Analyze via GIS
-        </button>
+        </Link>
       </div>
       {/* Cards Section */}
       <div className="flex flex-row gap-15 m-10 ">

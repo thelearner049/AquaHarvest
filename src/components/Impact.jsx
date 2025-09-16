@@ -2,6 +2,7 @@ import { MdOutlinePeopleAlt } from "react-icons/md";
 import { BiLeaf } from "react-icons/bi";
 import { BsGlobe } from "react-icons/bs";
 import { IoLanguage } from "react-icons/io5";
+import { Link } from "react-router-dom";
 
 const Impact = () => {
   return (
@@ -72,9 +73,12 @@ const Impact = () => {
           </p>
           {/* Buttons section */}
           <div className="flex flex-row gap-5 justify-center">
-            <button className="font-semibold text-xl text-white bg-[#003366] hover:bg-[#054687] px-6 py-1.5 rounded-md cursor-pointer">
+            <Link
+              to="/estimation"
+              className="font-semibold text-xl text-white bg-[#003366] hover:bg-[#054687] px-6 py-1.5 rounded-md cursor-pointer"
+            >
               Estimate Your Rooftop Potential
-            </button>
+            </Link>
             <button className="font-semibold text-xl px-6 py-1.5 rounded-md cursor-pointer border hover:bg-[#003366] hover:text-white duration-300">
               Learn More
             </button>
