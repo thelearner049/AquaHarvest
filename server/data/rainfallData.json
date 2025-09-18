@@ -1,0 +1,220 @@
+{
+  "Uttar Pradesh": {
+    "Muzaffarnagar": 950,
+    "Khatauli": 950,
+    "Meerut": 920,
+    "Lucknow": 1000,
+    "Kanpur Nagar": 980,
+    "Varanasi": 1025,
+    "Gorakhpur": 1100,
+    "Noida": 850,
+    "Bareilly": 970,
+    "Agra": 890
+  },
+  "Delhi": {
+    "North Delhi": 790,
+    "South Delhi": 810,
+    "East Delhi": 805,
+    "West Delhi": 795,
+    "Central Delhi": 800,
+    "Rohini": 800
+  },
+  "Rajasthan": {
+    "Ajmer": 480,
+    "Alwar": 620,
+    "Jaipur": 650,
+    "Udaipur": 730,
+    "Jodhpur": 410,
+    "Bikaner": 320,
+    "Kota": 690
+  },
+  "Maharashtra": {
+    "Mumbai": 2000,
+    "Pune": 1100,
+    "Nagpur": 1050,
+    "Nashik": 950,
+    "Aurangabad": 870,
+    "Thane": 1950,
+    "Kolhapur": 1800
+  },
+  "Tamil Nadu": {
+    "Chennai": 1200,
+    "Coimbatore": 850,
+    "Madurai": 920,
+    "Salem": 880,
+    "Tirunelveli": 1100,
+    "Erode": 890,
+    "Trichy": 950
+  },
+  "Karnataka": {
+    "Bangalore": 970,
+    "Mysore": 880,
+    "Hubli": 820,
+    "Mangalore": 1200,
+    "Belgaum": 890,
+    "Tumkur": 860,
+    "Dharwad": 840
+  },
+  "Andhra Pradesh": {
+    "Anantapur": 620,
+    "Chittoor": 890,
+    "Guntur": 980,
+    "Krishna": 1020,
+    "Visakhapatnam": 1125,
+    "Kurnool": 910,
+    "Nellore": 950
+  },
+  "West Bengal": {
+    "Kolkata": 1600,
+    "Darjeeling": 2200,
+    "Howrah": 1450,
+    "Siliguri": 1800,
+    "Asansol": 1300,
+    "Malda": 1650,
+    "Bankura": 1400
+  },
+  "Kerala": {
+    "Thiruvananthapuram": 1800,
+    "Kochi": 2100,
+    "Kozhikode": 2200,
+    "Palakkad": 1900,
+    "Kannur": 2000,
+    "Ernakulam": 2050,
+    "Thrissur": 1950
+  },
+  "Uttarakhand": {
+    "Dehradun": 1800,
+    "Haridwar": 1100,
+    "Nainital": 1600,
+    "Almora": 1400,
+    "Pithoragarh": 1700
+  },
+  "Himachal Pradesh": {
+    "Shimla": 1500,
+    "Kangra": 1800,
+    "Mandi": 1600,
+    "Kullu": 1700,
+    "Solan": 1400
+  },
+  "Punjab": {
+    "Amritsar": 780,
+    "Ludhiana": 850,
+    "Patiala": 900,
+    "Jalandhar": 820,
+    "Bathinda": 750
+  },
+  "Haryana": {
+    "Gurgaon": 800,
+    "Faridabad": 820,
+    "Ambala": 850,
+    "Hisar": 700,
+    "Panipat": 780
+  },
+  "Bihar": {
+    "Patna": 1100,
+    "Gaya": 1050,
+    "Muzaffarpur": 1150,
+    "Bhagalpur": 1200,
+    "Darbhanga": 1250
+  },
+  "Jharkhand": {
+    "Ranchi": 1300,
+    "Jamshedpur": 1250,
+    "Dhanbad": 1100,
+    "Bokaro": 1080,
+    "Hazaribagh": 1150
+  },
+  "Chhattisgarh": {
+    "Raipur": 1200,
+    "Bilaspur": 1150,
+    "Durg": 1100,
+    "Korba": 1250,
+    "Jagdalpur": 1400
+  },
+  "Madhya Pradesh": {
+    "Bhopal": 1100,
+    "Indore": 1050,
+    "Jabalpur": 1150,
+    "Gwalior": 950,
+    "Ujjain": 1000
+  },
+  "Gujarat": {
+    "Ahmedabad": 800,
+    "Surat": 1200,
+    "Rajkot": 950,
+    "Vadodara": 1100,
+    "Bhavnagar": 1000
+  },
+  "Odisha": {
+    "Bhubaneswar": 1400,
+    "Cuttack": 1350,
+    "Puri": 1500,
+    "Sambalpur": 1600,
+    "Rourkela": 1300
+  },
+  "Assam": {
+    "Guwahati": 1800,
+    "Dibrugarh": 2200,
+    "Silchar": 2000,
+    "Tezpur": 1900,
+    "Jorhat": 2100
+  },
+  "Tripura": {
+    "Agartala": 2100,
+    "Dharmanagar": 2000,
+    "Udaipur": 1950,
+    "Kailashahar": 2050
+  },
+  "Meghalaya": {
+    "Shillong": 2300,
+    "Cherrapunji": 11000,
+    "Tura": 2500,
+    "Nongstoin": 2400
+  },
+  "Manipur": {
+    "Imphal": 1600,
+    "Churachandpur": 1700,
+    "Thoubal": 1500,
+    "Senapati": 1800
+  },
+  "Mizoram": {
+    "Aizawl": 1900,
+    "Lunglei": 2000,
+    "Champhai": 1850,
+    "Serchhip": 1950
+  },
+  "Arunachal Pradesh": {
+    "Itanagar": 2200,
+    "Tawang": 1800,
+    "Pasighat": 2500,
+    "Ziro": 2300
+  },
+  "Sikkim": {
+    "Gangtok": 2400,
+    "Namchi": 2300,
+    "Gyalshing": 2200,
+    "Mangan": 2500
+  },
+  "Goa": {
+    "North Goa": 2700,
+    "South Goa": 2800
+  },
+  "Jammu & Kashmir": {
+    "Srinagar": 850,
+    "Jammu": 1100,
+    "Anantnag": 950,
+    "Baramulla": 900
+  },
+  "Ladakh": {
+    "Leh": 100,
+    "Kargil": 150
+  },
+  "Union Territories": {
+    "Chandigarh": 1100,
+    "Puducherry": 1300,
+    "Daman": 1200,
+    "Diu": 1150,
+    "Lakshadweep": 1600,
+    "Andaman and Nicobar Islands": 3000
+  }
+}

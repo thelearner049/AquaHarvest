@@ -1,0 +1,852 @@
+{
+  "Uttar Pradesh": {
+    "Muzaffarnagar": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Khatauli": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Meerut": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Lucknow": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Kanpur Nagar": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Varanasi": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Gorakhpur": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Noida": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Bareilly": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Agra": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    }
+  },
+  "Delhi": {
+    "North Delhi": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    },
+    "South Delhi": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    },
+    "East Delhi": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    },
+    "West Delhi": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    },
+    "Central Delhi": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    },
+    "Rohini": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    }
+  },
+  "Rajasthan": {
+    "Ajmer": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Alwar": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Jaipur": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Udaipur": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Jodhpur": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Bikaner": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Kota": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    }
+  },
+  "Maharashtra": {
+    "Mumbai": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Pune": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Nagpur": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Nashik": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Aurangabad": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Thane": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Kolhapur": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    }
+  },
+  "Tamil Nadu": {
+    "Chennai": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Coimbatore": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Madurai": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Salem": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Tirunelveli": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Erode": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Trichy": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    }
+  },
+  "Karnataka": {
+    "Bangalore": {
+      "Recharge Pit": 17250,
+      "Recharge Trench": 23000,
+      "Recharge Shaft": 20700
+    },
+    "Mysore": {
+      "Recharge Pit": 17250,
+      "Recharge Trench": 23000,
+      "Recharge Shaft": 20700
+    },
+    "Hubli": {
+      "Recharge Pit": 17250,
+      "Recharge Trench": 23000,
+      "Recharge Shaft": 20700
+    },
+    "Mangalore": {
+      "Recharge Pit": 17250,
+      "Recharge Trench": 23000,
+      "Recharge Shaft": 20700
+    },
+    "Belgaum": {
+      "Recharge Pit": 17250,
+      "Recharge Trench": 23000,
+      "Recharge Shaft": 20700
+    },
+    "Tumkur": {
+      "Recharge Pit": 17250,
+      "Recharge Trench": 23000,
+      "Recharge Shaft": 20700
+    },
+    "Dharwad": {
+      "Recharge Pit": 17250,
+      "Recharge Trench": 23000,
+      "Recharge Shaft": 20700
+    }
+  },
+  "Andhra Pradesh": {
+    "Anantapur": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Chittoor": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Guntur": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Krishna": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Visakhapatnam": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Kurnool": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Nellore": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    }
+  },
+  "West Bengal": {
+    "Kolkata": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Darjeeling": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Howrah": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Siliguri": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Asansol": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Malda": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    },
+    "Bankura": {
+      "Recharge Pit": 16500,
+      "Recharge Trench": 22000,
+      "Recharge Shaft": 19800
+    }
+  },
+  "Kerala": {
+    "Thiruvananthapuram": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Kochi": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Kozhikode": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Palakkad": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Kannur": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Ernakulam": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Thrissur": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    }
+  },
+  "Uttarakhand": {
+    "Dehradun": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Haridwar": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Nainital": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Almora": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    },
+    "Pithoragarh": {
+      "Recharge Pit": 18000,
+      "Recharge Trench": 24000,
+      "Recharge Shaft": 21600
+    }
+  },
+  "Himachal Pradesh": {
+    "Shimla": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Kangra": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Mandi": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Kullu": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Solan": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    }
+  },
+  "Punjab": {
+    "Amritsar": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Ludhiana": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Patiala": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Jalandhar": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Bathinda": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    }
+  },
+  "Haryana": {
+    "Gurgaon": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    },
+    "Faridabad": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    },
+    "Ambala": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    },
+    "Hisar": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    },
+    "Panipat": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    }
+  },
+  "Bihar": {
+    "Patna": {
+      "Recharge Pit": 12750,
+      "Recharge Trench": 17000,
+      "Recharge Shaft": 15300
+    },
+    "Gaya": {
+      "Recharge Pit": 12750,
+      "Recharge Trench": 17000,
+      "Recharge Shaft": 15300
+    },
+    "Muzaffarpur": {
+      "Recharge Pit": 12750,
+      "Recharge Trench": 17000,
+      "Recharge Shaft": 15300
+    },
+    "Bhagalpur": {
+      "Recharge Pit": 12750,
+      "Recharge Trench": 17000,
+      "Recharge Shaft": 15300
+    },
+    "Darbhanga": {
+      "Recharge Pit": 12750,
+      "Recharge Trench": 17000,
+      "Recharge Shaft": 15300
+    }
+  },
+  "Jharkhand": {
+    "Ranchi": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Jamshedpur": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Dhanbad": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Bokaro": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Hazaribagh": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    }
+  },
+  "Chhattisgarh": {
+    "Raipur": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Bilaspur": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Durg": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Korba": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    },
+    "Jagdalpur": {
+      "Recharge Pit": 13500,
+      "Recharge Trench": 18000,
+      "Recharge Shaft": 16200
+    }
+  },
+  "Madhya Pradesh": {
+    "Bhopal": {
+      "Recharge Pit": 14250,
+      "Recharge Trench": 19000,
+      "Recharge Shaft": 17100
+    },
+    "Indore": {
+      "Recharge Pit": 14250,
+      "Recharge Trench": 19000,
+      "Recharge Shaft": 17100
+    },
+    "Jabalpur": {
+      "Recharge Pit": 14250,
+      "Recharge Trench": 19000,
+      "Recharge Shaft": 17100
+    },
+    "Gwalior": {
+      "Recharge Pit": 14250,
+      "Recharge Trench": 19000,
+      "Recharge Shaft": 17100
+    },
+    "Ujjain": {
+      "Recharge Pit": 14250,
+      "Recharge Trench": 19000,
+      "Recharge Shaft": 17100
+    }
+  },
+  "Gujarat": {
+    "Ahmedabad": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    },
+    "Surat": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    },
+    "Rajkot": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    },
+    "Vadodara": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    },
+    "Bhavnagar": {
+      "Recharge Pit": 15750,
+      "Recharge Trench": 21000,
+      "Recharge Shaft": 18900
+    }
+  },
+  "Odisha": {
+    "Bhubaneswar": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Cuttack": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Puri": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Sambalpur": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Rourkela": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    }
+  },
+  "Assam": {
+    "Guwahati": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    },
+    "Dibrugarh": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    },
+    "Silchar": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    },
+    "Tezpur": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    },
+    "Jorhat": {
+      "Recharge Pit": 18750,
+      "Recharge Trench": 25000,
+      "Recharge Shaft": 22500
+    }
+  },
+  "Tripura": {
+    "Agartala": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Dharmanagar": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Udaipur": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    },
+    "Kailashahar": {
+      "Recharge Pit": 19500,
+      "Recharge Trench": 26000,
+      "Recharge Shaft": 23400
+    }
+  },
+  "Meghalaya": {
+    "Shillong": {
+      "Recharge Pit": 21750,
+      "Recharge Trench": 29000,
+      "Recharge Shaft": 26100
+    },
+    "Cherrapunji": {
+      "Recharge Pit": 21750,
+      "Recharge Trench": 29000,
+      "Recharge Shaft": 26100
+    },
+    "Tura": {
+      "Recharge Pit": 21750,
+      "Recharge Trench": 29000,
+      "Recharge Shaft": 26100
+    },
+    "Nongstoin": {
+      "Recharge Pit": 21750,
+      "Recharge Trench": 29000,
+      "Recharge Shaft": 26100
+    }
+  },
+  "Manipur": {
+    "Imphal": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Churachandpur": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Thoubal": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Senapati": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    }
+  },
+  "Mizoram": {
+    "Aizawl": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    },
+    "Lunglei": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    },
+    "Champhai": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    },
+    "Serchhip": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    }
+  },
+  "Arunachal Pradesh": {
+    "Itanagar": {
+      "Recharge Pit": 22500,
+      "Recharge Trench": 30000,
+      "Recharge Shaft": 27000
+    },
+    "Tawang": {
+      "Recharge Pit": 22500,
+      "Recharge Trench": 30000,
+      "Recharge Shaft": 27000
+    },
+    "Pasighat": {
+      "Recharge Pit": 22500,
+      "Recharge Trench": 30000,
+      "Recharge Shaft": 27000
+    },
+    "Ziro": {
+      "Recharge Pit": 22500,
+      "Recharge Trench": 30000,
+      "Recharge Shaft": 27000
+    }
+  },
+  "Sikkim": {
+    "Gangtok": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    },
+    "Namchi": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    },
+    "Gyalshing": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    },
+    "Mangan": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    }
+  },
+  "Goa": {
+    "North Goa": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    },
+    "South Goa": {
+      "Recharge Pit": 21000,
+      "Recharge Trench": 28000,
+      "Recharge Shaft": 25200
+    }
+  },
+  "Jammu & Kashmir": {
+    "Srinagar": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Jammu": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Anantnag": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    },
+    "Baramulla": {
+      "Recharge Pit": 20250,
+      "Recharge Trench": 27000,
+      "Recharge Shaft": 24300
+    }
+  },
+  "Ladakh": {
+    "Leh": {
+      "Recharge Pit": 22500,
+      "Recharge Trench": 30000,
+      "Recharge Shaft": 27000
+    },
+    "Kargil": {
+      "Recharge Pit": 22500,
+      "Recharge Trench": 30000,
+      "Recharge Shaft": 27000
+    }
+  },
+  "Union Territories": {
+    "Chandigarh": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Puducherry": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Daman": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Diu": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Lakshadweep": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    },
+    "Andaman and Nicobar Islands": {
+      "Recharge Pit": 15000,
+      "Recharge Trench": 20000,
+      "Recharge Shaft": 18000
+    }
+  }
+}

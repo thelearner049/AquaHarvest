@@ -1,0 +1,1168 @@
+{
+  "Uttar Pradesh": {
+    "Muzaffarnagar": {
+      "rainfall": 950,
+      "aquifer": "Doab Alluvium",
+      "rechargeRate": "Moderate",
+      "depth": "12–22m",
+      "status": "Safe"
+    },
+    "Khatauli": {
+      "rainfall": 950,
+      "aquifer": "Doab Alluvium",
+      "rechargeRate": "Moderate",
+      "depth": "12–22m",
+      "status": "Safe"
+    },
+    "Meerut": {
+      "rainfall": 920,
+      "aquifer": "Doab Alluvium",
+      "rechargeRate": "Moderate",
+      "depth": "12–25m",
+      "status": "Safe"
+    },
+    "Lucknow": {
+      "rainfall": 1000,
+      "aquifer": "Gangetic Alluvium",
+      "rechargeRate": "Moderate",
+      "depth": "10–30m",
+      "status": "Semi-critical"
+    },
+    "Kanpur Nagar": {
+      "rainfall": 980,
+      "aquifer": "Gangetic Alluvium",
+      "rechargeRate": "Moderate",
+      "depth": "10–28m",
+      "status": "Semi-critical"
+    },
+    "Varanasi": {
+      "rainfall": 1025,
+      "aquifer": "Gangetic Alluvium",
+      "rechargeRate": "Moderate",
+      "depth": "10–25m",
+      "status": "Safe"
+    },
+    "Gorakhpur": {
+      "rainfall": 1100,
+      "aquifer": "Gangetic Alluvium",
+      "rechargeRate": "High",
+      "depth": "8–20m",
+      "status": "Safe"
+    },
+    "Noida": {
+      "rainfall": 850,
+      "aquifer": "Doab Alluvium",
+      "rechargeRate": "Low",
+      "depth": "20–35m",
+      "status": "Over-exploited"
+    },
+    "Bareilly": {
+      "rainfall": 970,
+      "aquifer": "Gangetic Alluvium",
+      "rechargeRate": "Moderate",
+      "depth": "12–30m",
+      "status": "Safe"
+    },
+    "Agra": {
+      "rainfall": 890,
+      "aquifer": "Alluvial",
+      "rechargeRate": "Low",
+      "depth": "18–32m",
+      "status": "Critical"
+    }
+  },
+  "Delhi": {
+    "North Delhi": {
+      "rainfall": 790,
+      "aquifer": "Alluvial",
+      "rechargeRate": "Low",
+      "depth": "22–38m",
+      "status": "Over-exploited"
+    },
+    "South Delhi": {
+      "rainfall": 810,
+      "aquifer": "Alluvial",
+      "rechargeRate": "Low",
+      "depth": "20–40m",
+      "status": "Over-exploited"
+    },
+    "East Delhi": {
+      "rainfall": 805,
+      "aquifer": "Alluvial",
+      "rechargeRate": "Low",
+      "depth": "20–35m",
+      "status": "Critical"
+    },
+    "West Delhi": {
+      "rainfall": 795,
+      "aquifer": "Alluvial",
+      "rechargeRate": "Low",
+      "depth": "22–36m",
+      "status": "Critical"
+    },
+    "Central Delhi": {
+      "rainfall": 800,
+      "aquifer": "Alluvial",
+      "rechargeRate": "Low",
+      "depth": "22–38m",
+      "status": "Critical"
+    },
+    "Rohini": {
+      "rainfall": 800,
+      "aquifer": "Alluvial",
+      "rechargeRate": "Low",
+      "depth": "25–45m",
+      "status": "Over-exploited"
+    }
+  },
+  "Maharashtra": {
+    "Mumbai": {
+      "rainfall": 2000,
+      "aquifer": "Basaltic",
+      "rechargeRate": "High",
+      "depth": "5–15m",
+      "status": "Safe"
+    },
+    "Pune": {
+      "rainfall": 1100,
+      "aquifer": "Basaltic",
+      "rechargeRate": "Moderate",
+      "depth": "10–25m",
+      "status": "Safe"
+    },
+    "Nagpur": {
+      "rainfall": 1050,
+      "aquifer": "Basaltic",
+      "rechargeRate": "Moderate",
+      "depth": "12–28m",
+      "status": "Safe"
+    },
+    "Nashik": {
+      "rainfall": 950,
+      "aquifer": "Basaltic",
+      "rechargeRate": "Moderate",
+      "depth": "10–22m",
+      "status": "Safe"
+    },
+    "Aurangabad": {
+      "rainfall": 870,
+      "aquifer": "Basaltic",
+      "rechargeRate": "Low",
+      "depth": "15–30m",
+      "status": "Semi-critical"
+    },
+    "Thane": {
+      "rainfall": 1950,
+      "aquifer": "Basaltic",
+      "rechargeRate": "High",
+      "depth": "5–15m",
+      "status": "Safe"
+    },
+    "Kolhapur": {
+      "rainfall": 1800,
+      "aquifer": "Basaltic",
+      "rechargeRate": "High",
+      "depth": "6–18m",
+      "status": "Safe"
+    }
+  },
+  "Rajasthan": {
+  "Ajmer": {
+    "rainfall": 480,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Low",
+    "depth": "25–45m",
+    "status": "Semi-critical"
+  },
+  "Alwar": {
+    "rainfall": 620,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "20–35m",
+    "status": "Safe"
+  },
+  "Jaipur": {
+    "rainfall": 650,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Low",
+    "depth": "30–50m",
+    "status": "Critical"
+  },
+  "Udaipur": {
+    "rainfall": 730,
+    "aquifer": "Granite",
+    "rechargeRate": "Low",
+    "depth": "35–55m",
+    "status": "Semi-critical"
+  },
+  "Jodhpur": {
+    "rainfall": 410,
+    "aquifer": "Sandstone",
+    "rechargeRate": "Low",
+    "depth": "40–60m",
+    "status": "Over-exploited"
+  },
+  "Bikaner": {
+    "rainfall": 320,
+    "aquifer": "Sandstone",
+    "rechargeRate": "Low",
+    "depth": "45–65m",
+    "status": "Over-exploited"
+  },
+  "Kota": {
+    "rainfall": 690,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "20–40m",
+    "status": "Safe"
+  }
+},
+"Tamil Nadu": {
+  "Chennai": {
+    "rainfall": 1200,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "Low",
+    "depth": "5–15m",
+    "status": "Over-exploited"
+  },
+  "Coimbatore": {
+    "rainfall": 850,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Madurai": {
+    "rainfall": 920,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "20–35m",
+    "status": "Semi-critical"
+  },
+  "Salem": {
+    "rainfall": 880,
+    "aquifer": "Granite",
+    "rechargeRate": "Moderate",
+    "depth": "18–32m",
+    "status": "Safe"
+  },
+  "Tirunelveli": {
+    "rainfall": 1100,
+    "aquifer": "Sedimentary",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Erode": {
+    "rainfall": 890,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Trichy": {
+    "rainfall": 950,
+    "aquifer": "Sedimentary",
+    "rechargeRate": "Moderate",
+    "depth": "12–28m",
+    "status": "Safe"
+  }
+},
+"Karnataka": {
+  "Bangalore": {
+    "rainfall": 970,
+    "aquifer": "Granite",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Semi-critical"
+  },
+  "Mysore": {
+    "rainfall": 880,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "12–25m",
+    "status": "Safe"
+  },
+  "Hubli": {
+    "rainfall": 820,
+    "aquifer": "Basaltic",
+    "rechargeRate": "Moderate",
+    "depth": "10–22m",
+    "status": "Safe"
+  },
+  "Mangalore": {
+    "rainfall": 1200,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Belgaum": {
+    "rainfall": 890,
+    "aquifer": "Basaltic",
+    "rechargeRate": "Moderate",
+    "depth": "12–28m",
+    "status": "Safe"
+  },
+  "Tumkur": {
+    "rainfall": 860,
+    "aquifer": "Granite",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Dharwad": {
+    "rainfall": 840,
+    "aquifer": "Basaltic",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  }
+},
+"Andhra Pradesh": {
+  "Anantapur": {
+    "rainfall": 620,
+    "aquifer": "Granite",
+    "rechargeRate": "Low",
+    "depth": "30–50m",
+    "status": "Over-exploited"
+  },
+  "Chittoor": {
+    "rainfall": 890,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "20–35m",
+    "status": "Semi-critical"
+  },
+  "Guntur": {
+    "rainfall": 980,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Krishna": {
+    "rainfall": 1020,
+    "aquifer": "Coastal Alluvium",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Visakhapatnam": {
+    "rainfall": 1125,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "8–20m",
+    "status": "Safe"
+  },
+  "Kurnool": {
+    "rainfall": 910,
+    "aquifer": "Granite",
+    "rechargeRate": "Moderate",
+    "depth": "20–35m",
+    "status": "Semi-critical"
+  },
+  "Nellore": {
+    "rainfall": 950,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  }
+},
+"West Bengal": {
+  "Kolkata": {
+    "rainfall": 1600,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Darjeeling": {
+    "rainfall": 2200,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "10–20m",
+    "status": "Safe"
+  },
+  "Howrah": {
+    "rainfall": 1450,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Siliguri": {
+    "rainfall": 1800,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "10–20m",
+    "status": "Safe"
+  },
+  "Asansol": {
+    "rainfall": 1300,
+    "aquifer": "Sandstone",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Malda": {
+    "rainfall": 1650,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Bankura": {
+    "rainfall": 1400,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  }
+},
+"Kerala": {
+  "Thiruvananthapuram": {
+    "rainfall": 1800,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Kochi": {
+    "rainfall": 2100,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Kozhikode": {
+    "rainfall": 2200,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Palakkad": {
+    "rainfall": 1900,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Kannur": {
+    "rainfall": 2000,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Ernakulam": {
+    "rainfall": 2050,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Thrissur": {
+    "rainfall": 1950,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  }
+},
+"Uttarakhand": {
+  "Dehradun": {
+    "rainfall": 1800,
+    "aquifer": "Himalayan Sediment",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Haridwar": {
+    "rainfall": 1100,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "12–30m",
+    "status": "Safe"
+  },
+  "Nainital": {
+    "rainfall": 1600,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "10–20m",
+    "status": "Safe"
+  },
+  "Almora": {
+    "rainfall": 1400,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Pithoragarh": {
+    "rainfall": 1700,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "10–20m",
+    "status": "Safe"
+  }
+},
+"Himachal Pradesh": {
+  "Shimla": {
+    "rainfall": 1500,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "10–20m",
+    "status": "Safe"
+  },
+  "Kangra": {
+    "rainfall": 1800,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "10–20m",
+    "status": "Safe"
+  },
+  "Mandi": {
+    "rainfall": 1600,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Kullu": {
+    "rainfall": 1700,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "10–20m",
+    "status": "Safe"
+  },
+  "Solan": {
+    "rainfall": 1400,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  }
+},
+"Punjab": {
+  "Amritsar": {
+    "rainfall": 780,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Semi-critical"
+  },
+  "Ludhiana": {
+    "rainfall": 850,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Semi-critical"
+  },
+  "Patiala": {
+    "rainfall": 900,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Semi-critical"
+  },
+  "Jalandhar": {
+    "rainfall": 820,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Semi-critical"
+  },
+  "Bathinda": {
+    "rainfall": 750,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Low",
+    "depth": "20–35m",
+    "status": "Critical"
+  }
+},
+"Haryana": {
+  "Gurgaon": {
+    "rainfall": 800,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Low",
+    "depth": "20–35m",
+    "status": "Over-exploited"
+  },
+  "Faridabad": {
+    "rainfall": 820,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Low",
+    "depth": "22–38m",
+    "status": "Critical"
+  },
+  "Ambala": {
+    "rainfall": 850,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Semi-critical"
+  },
+  "Hisar": {
+    "rainfall": 700,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Low",
+    "depth": "25–40m",
+    "status": "Critical"
+  },
+  "Panipat": {
+    "rainfall": 780,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Low",
+    "depth": "20–35m",
+    "status": "Over-exploited"
+  }
+},
+"Bihar": {
+  "Patna": {
+    "rainfall": 1100,
+    "aquifer": "Gangetic Alluvium",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Gaya": {
+    "rainfall": 1050,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Muzaffarpur": {
+    "rainfall": 1150,
+    "aquifer": "Gangetic Alluvium",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Bhagalpur": {
+    "rainfall": 1200,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Darbhanga": {
+    "rainfall": 1250,
+    "aquifer": "Gangetic Alluvium",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  }
+},
+"Jharkhand": {
+  "Ranchi": {
+    "rainfall": 1300,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Jamshedpur": {
+    "rainfall": 1250,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Dhanbad": {
+    "rainfall": 1100,
+    "aquifer": "Sandstone",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Bokaro": {
+    "rainfall": 1080,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Hazaribagh": {
+    "rainfall": 1150,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  }
+},
+"Chhattisgarh": {
+  "Raipur": {
+    "rainfall": 1200,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Bilaspur": {
+    "rainfall": 1150,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Durg": {
+    "rainfall": 1100,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Korba": {
+    "rainfall": 1250,
+    "aquifer": "Sandstone",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Jagdalpur": {
+    "rainfall": 1400,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  }
+},
+"Madhya Pradesh": {
+  "Bhopal": {
+    "rainfall": 1100,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "12–28m",
+    "status": "Safe"
+  },
+  "Indore": {
+    "rainfall": 1050,
+    "aquifer": "Basaltic",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Jabalpur": {
+    "rainfall": 1150,
+    "aquifer": "Sandstone",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Gwalior": {
+    "rainfall": 950,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Semi-critical"
+  },
+  "Ujjain": {
+    "rainfall": 1000,
+    "aquifer": "Basaltic",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  }
+},
+"Gujarat": {
+  "Ahmedabad": {
+    "rainfall": 800,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Low",
+    "depth": "20–35m",
+    "status": "Over-exploited"
+  },
+  "Surat": {
+    "rainfall": 1200,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Rajkot": {
+    "rainfall": 950,
+    "aquifer": "Basaltic",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Vadodara": {
+    "rainfall": 1100,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "12–28m",
+    "status": "Safe"
+  },
+  "Bhavnagar": {
+    "rainfall": 1000,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  }
+},
+"Odisha": {
+  "Bhubaneswar": {
+    "rainfall": 1400,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Cuttack": {
+    "rainfall": 1350,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Puri": {
+    "rainfall": 1500,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Sambalpur": {
+    "rainfall": 1600,
+    "aquifer": "Hard Rock",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  },
+  "Rourkela": {
+    "rainfall": 1300,
+    "aquifer": "Sandstone",
+    "rechargeRate": "Moderate",
+    "depth": "15–30m",
+    "status": "Safe"
+  }
+},
+"Assam": {
+  "Guwahati": {
+    "rainfall": 1800,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Dibrugarh": {
+    "rainfall": 2200,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Silchar": {
+    "rainfall": 2000,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Tezpur": {
+    "rainfall": 1900,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Jorhat": {
+    "rainfall": 2100,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  }
+},
+"Tripura": {
+  "Agartala": {
+    "rainfall": 2100,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Dharmanagar": {
+    "rainfall": 2000,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Udaipur": {
+    "rainfall": 1950,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Kailashahar": {
+    "rainfall": 2050,
+    "aquifer": "Alluvial",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  }
+},
+"Meghalaya": {
+  "Shillong": {
+    "rainfall": 2300,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Cherrapunji": {
+    "rainfall": 11000,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–10m",
+    "status": "Safe"
+  },
+  "Tura": {
+    "rainfall": 2500,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Nongstoin": {
+    "rainfall": 2400,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  }
+},
+"Manipur": {
+  "Imphal": {
+    "rainfall": 1600,
+    "aquifer": "Valley Fill",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Churachandpur": {
+    "rainfall": 1700,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Thoubal": {
+    "rainfall": 1500,
+    "aquifer": "Valley Fill",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Senapati": {
+    "rainfall": 1800,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "10–20m",
+    "status": "Safe"
+  }
+},
+"Mizoram": {
+  "Aizawl": {
+    "rainfall": 1900,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Lunglei": {
+    "rainfall": 2000,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Champhai": {
+    "rainfall": 1850,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Serchhip": {
+    "rainfall": 1950,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  }
+},
+"Arunachal Pradesh": {
+  "Itanagar": {
+    "rainfall": 2200,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Tawang": {
+    "rainfall": 1800,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–20m",
+    "status": "Safe"
+  },
+  "Pasighat": {
+    "rainfall": 2500,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Ziro": {
+    "rainfall": 2300,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  }
+},
+"Sikkim": {
+  "Gangtok": {
+    "rainfall": 2400,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Namchi": {
+    "rainfall": 2300,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Gyalshing": {
+    "rainfall": 2200,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "Mangan": {
+    "rainfall": 2500,
+    "aquifer": "Hilly Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  }
+},
+"Goa": {
+  "North Goa": {
+    "rainfall": 2700,
+    "aquifer": "Laterite",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  },
+  "South Goa": {
+    "rainfall": 2800,
+    "aquifer": "Laterite",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  }
+},
+"Jammu & Kashmir": {
+  "Srinagar": {
+    "rainfall": 850,
+    "aquifer": "Valley Fill",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Jammu": {
+    "rainfall": 1100,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "12–28m",
+    "status": "Safe"
+  },
+  "Anantnag": {
+    "rainfall": 950,
+    "aquifer": "Valley Fill",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Baramulla": {
+    "rainfall": 900,
+    "aquifer": "Valley Fill",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  }
+},
+"Ladakh": {
+  "Leh": {
+    "rainfall": 100,
+    "aquifer": "Glacial Sediment",
+    "rechargeRate": "Low",
+    "depth": "30–60m",
+    "status": "Critical"
+  },
+  "Kargil": {
+    "rainfall": 150,
+    "aquifer": "Glacial Sediment",
+    "rechargeRate": "Low",
+    "depth": "30–60m",
+    "status": "Critical"
+  }
+},
+"Union Territories": {
+  "Chandigarh": {
+    "rainfall": 1100,
+    "aquifer": "Alluvial",
+    "rechargeRate": "Moderate",
+    "depth": "12–28m",
+    "status": "Semi-critical"
+  },
+  "Puducherry": {
+    "rainfall": 1300,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Daman": {
+    "rainfall": 1200,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Diu": {
+    "rainfall": 1150,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "Moderate",
+    "depth": "10–25m",
+    "status": "Safe"
+  },
+  "Lakshadweep": {
+    "rainfall": 1600,
+    "aquifer": "Coral Sand",
+    "rechargeRate": "Low",
+    "depth": "5–10m",
+    "status": "Critical"
+  },
+  "Andaman and Nicobar Islands": {
+    "rainfall": 3000,
+    "aquifer": "Coastal Sediment",
+    "rechargeRate": "High",
+    "depth": "5–15m",
+    "status": "Safe"
+  }
+}
+}
